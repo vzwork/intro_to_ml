@@ -1,2 +1,9 @@
 # into_to_ml
-My bootcamp project for the "intro to machine learning" section
+My bootcamp project for the "intro to the machine learning" section
+
+1. Scan the data
+2. Create learning data, validation data, and test data
+3. Test the accuracy of the different algorithms
+   - Try different hyperparameters
+   - Short review
+4. Test the accuracy of the prime model with the test data
