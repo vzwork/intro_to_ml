@@ -1,4 +1,4 @@
-# into_to_ml
+# intro_to_ml
 My bootcamp project for the "intro to the machine learning" section
 
 1. Scan the data
