@@ -1,10 +1,15 @@
-# intro_to_ml
-My bootcamp project for the "intro to the machine learning" section
+# Project Overview
+- Some phone service provider is introducing two new packages.
+- We have data with legacy users and new adopters.
+- Our tasks is to develop an algorithm that will predict the right suggested package.
 
-1. Scan the data
-2. Create training data, validation data, and test data
-3. Test the precision of the different algorithms
-   - Try different hyperparameters
-   - Short review
-4. Test the precision of the prime model with the test data
-5. Model sanity check
+# Learning Points
+- Prediction Metrics
+- ML Models
+- Hyperparameters Tunning
+
+# ML Pipline
+- Split Data - Train/Valid/Test
+- Developer Preprocessing Pipeline
+- Explore ML Models
+- Test the Best Model
