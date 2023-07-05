@@ -10,6 +10,6 @@
 
 # ML Pipline
 - Split Data - Train/Valid/Test
-- Developer Preprocessing Pipeline
+- Develop Preprocessing Pipeline
 - Explore ML Models
 - Test the Best Model
